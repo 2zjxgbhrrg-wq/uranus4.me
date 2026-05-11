@@ -1,0 +1,8 @@
+baseURL = "https://uranus4.me/"
+languageCode = "en-us"
+title = "uranus4.me"
+theme = "paper"
+
+[params]
+  color = "linen"
+  email = ""
